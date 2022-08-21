@@ -1,0 +1,26 @@
+/* website gallery */
+.image-gallery {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 150px;
+  }
+  
+  .image-gallery>a {
+    flex-basis: 350px;
+    /* width: 350px; */
+  }
+  
+  .image-gallery a img {
+    object-fit: cover;
+    width: 140%;
+    height: 100%;
+    vertical-align: middle;
+    border-radius: 5px;
+  
+  }
+  
+  /* add hover effect on pictures*/
+  .photo:hover {
+    opacity: 0.3;
+  }
