@@ -1,17 +1,17 @@
 /* Header-Nav bar */
 .header {
     padding: 40px 0;
-    background-color: black;
-    color: white;
+    color: #abd1c6;
+    font-family: 'Vidaloka', serif;
   }
   
   .header ul {
     padding: 0;
     list-style: none;
     text-align: center;
-    font-size: 18px;
+    font-size: 30px;
     line-height: 1.6;
-    margin-bottom: 0;
+    margin-bottom: 40px;
   }
   
   .header a {

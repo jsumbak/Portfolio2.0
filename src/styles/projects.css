@@ -1,9 +1,9 @@
 /* website gallery */
 .image-gallery {
-    display: inline-flex;
+    display:flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 150px;
+    gap: 120px;
   }
   
   .image-gallery>a {
@@ -12,15 +12,14 @@
   }
   
   .image-gallery a img {
-    object-fit: cover;
-    width: 140%;
-    height: 100%;
+    /* object-fit: cover; */
+    width: 115%;
+    height: 108%;
     vertical-align: middle;
     border-radius: 5px;
-  
   }
   
   /* add hover effect on pictures*/
   .photo:hover {
-    opacity: 0.3;
+    opacity: 0.5;
   }

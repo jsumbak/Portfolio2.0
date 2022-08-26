@@ -1,7 +1,25 @@
 p {
-    font-size: 30px;
-    font-family: 'Roboto Mono', monospace;
+    font-size: 25px;
+    font-family: 'Vidaloka', serif;
     text-align: center;
-    margin: 50px;
-    color: white
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    color: #abd1c6
   }
+
+p1 {
+  font-size: 15px;
+  font-family:'Vidaloka', serif;
+} 
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  height: 230px;
+  width: 230px;
+  border-radius: 130px;
+}
+
