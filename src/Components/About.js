@@ -10,8 +10,9 @@ function About() {
             <br></br>
             <br></br>    
             <p>Below are a few of the projects i've created.</p>
-            <p1>(Click on the image to view the application)</p1>
+            <p1>*Click on the image to view the application</p1>
             <br></br> 
+            <br></br>
             </p>
         </div>
     )
